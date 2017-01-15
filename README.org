@@ -1,0 +1,7 @@
+* MMBL
+
+Online lab resources (that are open to the public)
+
+** Weekly Reports
+
+Each week, the night before our weekly scheduled meeting, please upload a weekly report to our private report repository. In your report I want to hear about the work you did in the past week, including what worked and what did not work. Tell me about papers you discovered this week and include proper citations. Include any figures you are working on for discussion in our meeting. These do not need to be ultra-polished. Please aim to spend no more than 30 minutes per week on your report. The report template [[https:/github/jrbexbox/MMBL/blob/master/ReportTemplate.org][ReportTemplate.org]] is available in this repository.
