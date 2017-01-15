@@ -1,0 +1,9 @@
+#usepackage[letterpaper, portrait, margin=1in]{geometry}
+
+* Weekly Report
+
+** Project goals for week/month
+** Experiments conducted
+** Data and figures in progress
+** New papers of interest
+** Bibliography
