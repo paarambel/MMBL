@@ -26,7 +26,7 @@ And here is a PDF of that website's contents: https://ori.hhs.gov/sites/default/
 
 Did you make progress? Learn useful lessons? Did it not work? Tell me what you think happened.
 
-If you have data, can you plot it or include an image as a figure? Here is an example showing you how to insert a figure that is a PNG file:
+If you have data, can you plot it or include an image as a figure? Here is an example showing you how to insert a figure that is a PNG file (from John Kitchin's Research Blog at http://kitchingroup.cheme.cmu.edu/blog/2016/05/29/Expanding-orgmode-py-to-get-better-org-python-integration/):
 
 #+CAPTION: John Kitchin's XKCD-style bacon plot
 #+LABEL: fig:1
