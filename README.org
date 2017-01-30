@@ -8,4 +8,4 @@ Each week, the night before our weekly scheduled meeting, please upload a weekly
 
 ** Private Repo
 
-I have made a private repo at [https:/github/jrbexbox/MMBL-reports] with folders for each labmember. Please upload your weekly report to your folder. That way, all of your data and ideas are not publicly viewable.
+I have made a private repo at [[https:/github/jrbexbox/MMBL-reports]] with folders for each labmember. Please upload your weekly report to your folder. That way, all of your data and ideas are not publicly viewable.
